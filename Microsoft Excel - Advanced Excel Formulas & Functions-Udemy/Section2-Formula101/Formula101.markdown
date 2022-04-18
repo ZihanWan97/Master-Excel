@@ -99,6 +99,3 @@ Steps: "**Data**" menu ---> "**Data Tools**" sub-menu ---> "**Data Validation**"
 - Date/Time(Between, Less than, Equal to, etc)
 - Text Length(Between, Less than, Equal to, etc)
 - Custom(Formula-Driven)
-
-------
-
