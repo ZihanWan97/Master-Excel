@@ -8,13 +8,13 @@
 
 -------
 
-### 2.Nested IF Statement
+### 2.Nested IF Statement  
+
+By using Nested IF Statements, you can include multiple logical tests within a single formula.
 
 ```excel
 =IF(logical_test_1,[Value if True],IF(logical_test_2,[Value if True],[Value if False]))
 ```
-
-- By using Nested IF Statements, you can include multiple logical tests within a single formula
 
 ------
 
