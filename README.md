@@ -1,5 +1,5 @@
 # Master-Excel
-Record the process of learning Excel.
+To record the process of learning Excel.
 
 ## Catalog:  
 ### :file_folder:[Microsoft Excel - Advanced Excel Formulas & Functions](https://github.com/ZihanWan97/Master-Excel/tree/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy)   
