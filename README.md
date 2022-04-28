@@ -17,7 +17,7 @@ To record the process of learning Excel.
   - :bar_chart:[Section2_Formulas101.xlsx](https://github.com/ZihanWan97/Master-Excel/blob/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section2-Formula101/Section2_Formulas101.xlsx)  
 - :file_folder:[Section3-Conditional Statements & Logical Operators](https://github.com/ZihanWan97/Master-Excel/tree/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section3-Conditional%20Statements%20%26%20Logical%20Operators)  
 
-  - :page_facing_up:	[Conditional Statements & Logical Operators.md](https://github.com/ZihanWan97/Master-Excel/blob/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section3-Conditional%20Statements%20%26%20Logical%20Operators/Conditional%20Statements%20%26%20Logical%20Operators.md)
+  - :page_facing_up:	[Conditional Statements & Logical Operators.md](https://github.com/ZihanWan97/Master-Excel/blob/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section3-Conditional%20Statements%20%26%20Logical%20Operators/Conditional%20Statements%20%26%20Logical%20Operators.md)  
 
     - 1.IF Statement
     - 2.Nested IF Statement
@@ -26,5 +26,16 @@ To record the process of learning Excel.
     - 5.IFERROR
     - 6.IS Statement
   - :bar_chart:[Section3_Logical_Operators.xlsx](https://github.com/ZihanWan97/Master-Excel/blob/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section3-Conditional%20Statements%20%26%20Logical%20Operators/Section3_Logical_Operators.xlsx)
+
+- :file_folder:[Section4-Common Excel Statistical Functions](https://github.com/ZihanWan97/Master-Excel/tree/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section4-Common%20Excel%20Statistical%20Functions)  
+  - :page_facing_up:	[Common Excel Statistical Functions.md](https://github.com/ZihanWan97/Master-Excel/blob/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section4-Common%20Excel%20Statistical%20Functions/Common%20Excel%20Statistical%20Functions.md)  
+
+    - 1.Basic Statistical Functions
+    - 2.SMALL/LARGE & RANK/PERCENTRANK
+    - 3.RAND() & RANDBETWEEN
+    - 4.SUMPRODUCT
+    - 5.COUNTIF/SUMIF/AVERAGEIF
+  - :bar_chart:[Section4_Statistical_Functions.xlsx](https://github.com/ZihanWan97/Master-Excel/blob/main/Microsoft%20Excel%20-%20Advanced%20Excel%20Formulas%20%26%20Functions-Udemy/Section4-Common%20Excel%20Statistical%20Functions/Section4_Statistical_Functions.xlsx)
+
 ## Resources:
 :desktop_computer:[Microsoft Excel - Advanced Excel Formulas & Functions](https://www.udemy.com/course/excel-for-analysts/)
